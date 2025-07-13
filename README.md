@@ -131,3 +131,4 @@ If you have any questions, feel free to reach out:
 **This project showcases real-world skills in data analysis, machine learning, and customer behavior modeling, making it an excellent addition to your portfolio for placements!**
 # E-commerce-Churn-Classification
 # E-commerce-Churn-Classification-and-Customer
+# E-commerce-Churn-Classification-and-Customer
